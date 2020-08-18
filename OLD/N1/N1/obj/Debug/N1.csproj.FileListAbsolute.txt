@@ -1,0 +1,8 @@
+c:\users\alunos\documents\visual studio 2010\Projects\N1\N1\bin\N1.dll
+c:\users\alunos\documents\visual studio 2010\Projects\N1\N1\bin\N1.pdb
+c:\users\alunos\documents\visual studio 2010\Projects\N1\N1\obj\Debug\N1.dll
+c:\users\alunos\documents\visual studio 2010\Projects\N1\N1\obj\Debug\N1.pdb
+C:\Users\ALUNOS\Desktop\N1\N1\bin\N1.dll
+C:\Users\ALUNOS\Desktop\N1\N1\bin\N1.pdb
+C:\Users\ALUNOS\Desktop\N1\N1\obj\Debug\N1.dll
+C:\Users\ALUNOS\Desktop\N1\N1\obj\Debug\N1.pdb

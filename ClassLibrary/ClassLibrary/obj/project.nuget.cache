@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pOr/VHUv2e4hGoAHS3OjbJDI89sq0jConGF1UKSqsWedsvICNg7HPepBccyl+jf2n81C9S025GZzM3p/L9eDow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Breno\\OneDrive\\VS Code Projects\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

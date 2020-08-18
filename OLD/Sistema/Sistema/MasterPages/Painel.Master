@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Painel.master.cs" Inherits="Sistema.Painel" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Painel de Controle</title>
+    
+    <link href="/App_Themes/bootstrap.css" rel="stylesheet"></link>
+    <link href="/App_Themes/util.css" rel="stylesheet"></link>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="container">
+        <div class="navbar">
+          <div class="navbar-inner">
+            <a class="brand" href="/">Meu Sistema</a>
+            <ul class="nav">
+              <li><a href="/Sistema/Usuarios.aspx">Usuários</a></li>
+              <li><a href="#">Clientes</a></li>
+              <li><a href="#">Produtos</a></li>
+              <li><a href="#">Estoque</a></li>
+              <li><a href="#">Compras</a></li>
+              <li><a href="/Logout.aspx">Sair do Sistema</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <asp:ContentPlaceHolder ID="BreadCrumb" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

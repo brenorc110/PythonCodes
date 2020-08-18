@@ -1,0 +1,4 @@
+C:\Users\Breno\Documents\VS Code Projects\Calculadora\obj\Debug\netstandard2.0\Calculadora.csprojAssemblyReference.cache
+C:\Users\Breno\Documents\VS Code Projects\Calculadora\obj\Debug\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Breno\Documents\VS Code Projects\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Breno\Documents\VS Code Projects\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfo.cs

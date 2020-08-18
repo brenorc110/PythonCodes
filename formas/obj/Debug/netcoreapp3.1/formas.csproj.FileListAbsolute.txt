@@ -1,0 +1,13 @@
+C:\Users\Breno\OneDrive\VS Code Projects\formas\obj\Debug\netcoreapp3.1\formas.csprojAssemblyReference.cache
+C:\Users\Breno\OneDrive\VS Code Projects\formas\obj\Debug\netcoreapp3.1\formas.csproj.CoreCompileInputs.cache
+C:\Users\Breno\OneDrive\VS Code Projects\formas\obj\Debug\netcoreapp3.1\formas.AssemblyInfoInputs.cache
+C:\Users\Breno\OneDrive\VS Code Projects\formas\obj\Debug\netcoreapp3.1\formas.AssemblyInfo.cs
+C:\Users\Breno\OneDrive\VS Code Projects\formas\bin\Debug\netcoreapp3.1\formas.exe
+C:\Users\Breno\OneDrive\VS Code Projects\formas\bin\Debug\netcoreapp3.1\formas.deps.json
+C:\Users\Breno\OneDrive\VS Code Projects\formas\bin\Debug\netcoreapp3.1\formas.runtimeconfig.json
+C:\Users\Breno\OneDrive\VS Code Projects\formas\bin\Debug\netcoreapp3.1\formas.runtimeconfig.dev.json
+C:\Users\Breno\OneDrive\VS Code Projects\formas\bin\Debug\netcoreapp3.1\formas.dll
+C:\Users\Breno\OneDrive\VS Code Projects\formas\bin\Debug\netcoreapp3.1\formas.pdb
+C:\Users\Breno\OneDrive\VS Code Projects\formas\obj\Debug\netcoreapp3.1\formas.dll
+C:\Users\Breno\OneDrive\VS Code Projects\formas\obj\Debug\netcoreapp3.1\formas.pdb
+C:\Users\Breno\OneDrive\VS Code Projects\formas\obj\Debug\netcoreapp3.1\formas.genruntimeconfig.cache
