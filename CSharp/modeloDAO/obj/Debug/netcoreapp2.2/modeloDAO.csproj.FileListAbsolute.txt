@@ -1,4 +1,0 @@
-C:\Users\breno\OneDrive\VS Code Projects\modeloDAO\obj\Debug\netcoreapp2.2\modeloDAO.csprojAssemblyReference.cache
-C:\Users\breno\OneDrive\VS Code Projects\modeloDAO\obj\Debug\netcoreapp2.2\modeloDAO.csproj.CoreCompileInputs.cache
-C:\Users\breno\OneDrive\VS Code Projects\modeloDAO\obj\Debug\netcoreapp2.2\modeloDAO.AssemblyInfoInputs.cache
-C:\Users\breno\OneDrive\VS Code Projects\modeloDAO\obj\Debug\netcoreapp2.2\modeloDAO.AssemblyInfo.cs

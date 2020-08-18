@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\breno.DESKTOP-HEJOMJQ\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\breno.DESKTOP-HEJOMJQ\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-    ]
-  }
-}

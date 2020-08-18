@@ -1,5 +1,0 @@
-c:\users\breno renan\documents\visual studio 2010\Projects\ED1\ED1\bin\ED1.dll
-c:\users\breno renan\documents\visual studio 2010\Projects\ED1\ED1\bin\ED1.pdb
-c:\users\breno renan\documents\visual studio 2010\Projects\ED1\ED1\obj\Debug\ResolveAssemblyReference.cache
-c:\users\breno renan\documents\visual studio 2010\Projects\ED1\ED1\obj\Debug\ED1.dll
-c:\users\breno renan\documents\visual studio 2010\Projects\ED1\ED1\obj\Debug\ED1.pdb
