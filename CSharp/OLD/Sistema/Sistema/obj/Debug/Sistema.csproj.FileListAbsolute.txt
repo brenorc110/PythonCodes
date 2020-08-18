@@ -1,0 +1,4 @@
+c:\users\professores\documents\visual studio 2010\Projects\Sistema\Sistema\bin\Sistema.dll
+c:\users\professores\documents\visual studio 2010\Projects\Sistema\Sistema\bin\Sistema.pdb
+c:\users\professores\documents\visual studio 2010\Projects\Sistema\Sistema\obj\Debug\Sistema.dll
+c:\users\professores\documents\visual studio 2010\Projects\Sistema\Sistema\obj\Debug\Sistema.pdb

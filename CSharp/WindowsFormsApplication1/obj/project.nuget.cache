@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kM7sV+B/pl1AU2O6XbgX+6j3N0xVA/ODa+SpQED8olA3J1QAO+zxSv2OBoaASLAoKHjzF+RmEGgbyaZZ8RdtJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Breno\\OneDrive\\VS Code Projects\\WindowsFormsApplication1\\WindowsFormsApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

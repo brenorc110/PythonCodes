@@ -1,0 +1,4 @@
+C:\Users\breno\OneDrive\VS Code Projects\banco\banco\obj\Debug\netcoreapp2.2\banco.csprojAssemblyReference.cache
+C:\Users\breno\OneDrive\VS Code Projects\banco\banco\obj\Debug\netcoreapp2.2\banco.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\VS Code Projects\banco\banco\obj\Debug\netcoreapp2.2\banco.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\VS Code Projects\banco\banco\obj\Debug\netcoreapp2.2\banco.AssemblyInfo.cs

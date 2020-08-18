@@ -1,0 +1,8 @@
+C:\Users\Breno\OneDrive\VS Code Projects\WindowsFormsApplication1\obj\Debug\netstandard2.0\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Breno\OneDrive\VS Code Projects\WindowsFormsApplication1\obj\Debug\netstandard2.0\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Breno\OneDrive\VS Code Projects\WindowsFormsApplication1\obj\Debug\netstandard2.0\WindowsFormsApplication1.AssemblyInfoInputs.cache
+C:\Users\Breno\OneDrive\VS Code Projects\WindowsFormsApplication1\obj\Debug\netstandard2.0\WindowsFormsApplication1.AssemblyInfo.cs
+C:\Users\Breno\Documents\VS Code Projects\WindowsFormsApplication1\obj\Debug\netstandard2.0\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Breno\Documents\VS Code Projects\WindowsFormsApplication1\obj\Debug\netstandard2.0\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Breno\Documents\VS Code Projects\WindowsFormsApplication1\obj\Debug\netstandard2.0\WindowsFormsApplication1.AssemblyInfoInputs.cache
+C:\Users\Breno\Documents\VS Code Projects\WindowsFormsApplication1\obj\Debug\netstandard2.0\WindowsFormsApplication1.AssemblyInfo.cs

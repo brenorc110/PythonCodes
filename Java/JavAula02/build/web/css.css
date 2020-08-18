@@ -1,0 +1,15 @@
+/* 
+    Document   : css
+    Created on : 09/05/2013, 19:54:26
+    Author     : ALUNOS
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body{
+    text-align: center;
+    background-color: #ff0000 ;
+}
