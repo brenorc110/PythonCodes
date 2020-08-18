@@ -1,7 +1,7 @@
 # VS Code Configs:
  ---------------------------------------------------------------------------------------------------------------------------
-# WIN + D: Área de transferência.
-# Modelos                                           Nome Curto         Idioma            Marcas
+WIN + D: Área de transferência.
+Modelos                                           Nome Curto         Idioma            Marcas
 ---------------------------------------------------------------------------------------------------------------------------
 Console Application                               console            [C#], F#, VB      Common/Console
 Class library                                     classlib           [C#], F#, VB      Common/Library
