@@ -28,7 +28,7 @@ cv2.destroyAllWindows()
 #https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contour_features/py_contour_features.html
 
 #ALTERNATIVO:
-import cv2.cv2._mod_cv2
+import cv2
 import numpy as np
 
 cap = cv2.VideoCapture(0)

@@ -5,9 +5,6 @@ import os
 import csv
 import time
 
-#=================================================
-#======== VARIÁVEIS E MÉTODOS GLOBAIS ============
-#=================================================
 #Altere para o cascade treinado
 cascade_treinado = cv2.CascadeClassifier('C:/Users/Breno/Documents/VS Code Projects/Python/haarcascades/cascade.xml')
 cascade_treinado03 = cv2.CascadeClassifier('C:/Users/Breno/Documents/VS Code Projects/Python/haarcascades/cascade03.xml')
